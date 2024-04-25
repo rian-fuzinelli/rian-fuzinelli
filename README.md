@@ -18,4 +18,4 @@
 </div>
 
 
-<h4>Autodidata e estudante de Análise e Desenvolvimento de Sistemas aficionado por codificar e aprender coisas novas! </h4>
+<h4>Autodidata e estudante de Análise e Desenvolvimento de Sistemas na ETEC Comendador João Rays aficionado por codificar e aprender coisas novas! </h4>
