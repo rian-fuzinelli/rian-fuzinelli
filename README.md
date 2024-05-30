@@ -1,4 +1,4 @@
-## Olá! Meu nome é Rian Fuzinelli 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ACA16&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Rian+Fuzinelli;Eu+tenho+18+anos;Atualmente%2C+sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/rian-fuzinelli-645323249)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/riancaioo_/)
