@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ACA16&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Rian+Fuzinelli;Eu+tenho+18+anos;Atualmente%2C+sou+estudante+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=006400&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Rian+Fuzinelli;Eu+tenho+18+anos;Atualmente%2C+sou+estudante+)](https://git.io/typing-svg)
 
 ![FullStack Developer](https://github.com/fuzinelli500280/fuzinelli500280/assets/144074554/d02c64a9-bd0a-4e15-8f10-04ca04c3155a)
 
