@@ -1,7 +1,7 @@
 ![FullStack Developer](https://github.com/fuzinelli500280/fuzinelli500280/assets/144074554/d02c64a9-bd0a-4e15-8f10-04ca04c3155a)
 
 
-<h1 align="center">Hi 👋, I'm Rian Fuzinell</h1>
+<h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
 <h3 align="center">A FullStack Developer from Brazil</h3>
 
 - 🌱 I’m currently learning: **React Native**
