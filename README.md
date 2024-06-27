@@ -1,4 +1,4 @@
-![FullStack Developer](https://github.com/fuzinelli500280/fuzinelli500280/assets/144074554/d02c64a9-bd0a-4e15-8f10-04ca04c3155a)
+![FullStack Developer](https://github.com/rian-fuzinelli/rian-fuzinelli/assets/144074554/d02c64a9-bd0a-4e15-8f10-04ca04c3155a)
 
 
 <h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
@@ -19,12 +19,12 @@
 
 ## Graphs and Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuzinelli500280&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzinelli500280&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rian-fuzinelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## Contact:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/rian-fuzinelli-645323249)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/riancaioo_/)
 
-![Snake animation](https://github.com/fuzinelli500280/fuzinelli500280/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rian-fuzinelli/rian-fuzinelli/blob/output/github-contribution-grid-snake.svg)
