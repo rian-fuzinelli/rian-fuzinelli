@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,cs,dotnet" /><br>
 </div>
 
-
-<h4>Autodidata e estudante de Análise e Desenvolvimento de Sistemas na ETEC Comendador João Rays aficionado por codificar e aprender coisas novas! </h4>
+## Sobre mim:
+* <h4>Autodidata e estudante de Análise e Desenvolvimento de Sistemas na ETEC Comendador João Rays aficionado por codificar e aprender coisas novas! </h4>
 
 ![Snake animation](https://github.com/fuzinelli500280/fuzinelli500280/blob/output/github-contribution-grid-snake.svg)
