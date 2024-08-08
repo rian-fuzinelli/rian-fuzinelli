@@ -1,4 +1,5 @@
-![FullStack Developer](https://github.com/rian-fuzinelli/rian-fuzinelli/assets/144074554/d02c64a9-bd0a-4e15-8f10-04ca04c3155a)
+![meu_banner](https://github.com/user-attachments/assets/1f3f6f77-9531-4834-a646-034bcede1ec7)
+
 
 
 <h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
