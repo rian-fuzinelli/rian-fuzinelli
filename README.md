@@ -1,5 +1,4 @@
-![meu_banner2](https://github.com/user-attachments/assets/dd5903a2-b471-4872-8f43-5934d16ca8af)
-
+![meu_banner2](https://github.com/user-attachments/assets/7c21b42a-bf75-4850-8765-e2d7ca7ca938)
 
 
 
