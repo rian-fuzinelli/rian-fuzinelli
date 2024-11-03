@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **riancaiofuzinelli12@gmail.com**
 
-- ⚡ Fun fact: **I'm left-handed**
+- ⚡ Fun fact: **I'm left-handed** 😅
 </p>
 
 ## Languages and Tools:
