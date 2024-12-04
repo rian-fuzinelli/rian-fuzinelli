@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
-<h3 align="center">A FullStack Developer from Brazil</h3>
+<h3 align="center">A Back-End Developer from Brazil</h3>
 
 - 🌱 I’m currently learning: **React Native**
 
