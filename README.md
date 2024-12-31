@@ -1,5 +1,4 @@
-https://github.com/user-attachments/assets/8ec5fbd7-01b3-4055-9f0e-67e2d11e902d
-
+https://github.com/user-attachments/assets/56d5cd26-33ce-4203-85c7-22fd236694fb
 
 <h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
 <h3 align="center">A Back-End Developer from Brazil</h3>
