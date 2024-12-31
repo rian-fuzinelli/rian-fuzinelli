@@ -176,9 +176,9 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="50" height="50"/>
+            <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="50" height="50"/>
           </a>
-          <br>VStudio
+          <br>AWS
         </td>
         <td align="center" style="border: none;">
           <a href="https://azure.com/" style="color: white;">
