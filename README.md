@@ -1,29 +1,192 @@
-![rianzinhu](https://github.com/user-attachments/assets/0f7bdc2e-46f9-4eab-aafd-69df6109c49e)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">My name is Rian Fuzinelli 👋</h1>
-<h3 align="center">A Back-End Developer from Brazil</h3>
-
-- 🌱 I’m currently learning: **React Native**
-
-- 📫 How to reach me: **riancaiofuzinelli12@gmail.com**
-
-- ⚡ Fun fact: **I'm left-handed** 😅
-</p>
-
-## Languages and Tools:
-
-
-<p align="left"> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-## Graphs and Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rian-fuzinelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  ![rianzinhu](https://github.com/user-attachments/assets/08fe8886-0554-4484-861d-94bac5a72719)
+
+
+  </a>
 </div>
 
-## Contact:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/rian-fuzinelli-645323249)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/riancaioo_/)
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="48" height="48"></a> , I'm Rian Fuzinelli</h1>
 
-![Snake animation](https://github.com/rian-fuzinelli/rian-fuzinelli/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Scientist+Student;Back-End+Developer;Systems+Development+Technician;C#+Enthusiast;" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  Left-Handed | Gamer | Linguistic
+</p>
+
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with me</h2>
+  <p>Follow me on Instagram and LinkedIn!</p>
+
+  <table>
+      <td align="center">
+        <a href="https://www.instagram.com/riancaioo/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/rian-fuzinelli-645323249/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+<br>
+
+
+
+<h2 align="center">🚀 About Me</h2>
+
+Currently, I am a Back-End Developer Trainee at UPPER, with a solid foundation in C#, .NET, and SQL. I hold a Technical degree in Systems Development from ETEC and am currently pursuing a degree in Computer Science at UNISAGRADO, where I am deepening my knowledge in software development and innovation.
+
+I am motivated by continuous learning and enjoy collaborating in teams that value knowledge exchange. My goal is to contribute to impactful projects and deliver high-quality results.
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian-fuzinelli&custom_title=Rian's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian-fuzinelli&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Rian's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rian-fuzinelli&theme=highcontrast&hide_border=true">
+
+### GitHub Contribution Chart
+<a href="https://github.com/rian-fuzinelli">
+    <img src="https://ghchart.rshah.org/rian-fuzinelli" alt="rian-fuzinelli's GitHub Contribution Chart">
+</a>
+
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  <br>
+      <img src="https://github-readme-bento.vercel.app/stats/rian-fuzinelli?theme=dark" alt="rian-fuzinelli's GitHub Stats">
+
+
+</details>
+
+
+<br>
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px"> Tech Skills</h1>
+
+<h3 align="center">Development Tools</h3>
+
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="12" align="center" style="color: white;">Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://cs.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#"/>
+          </a>
+          <br>C#
+        </td>
+       <td align="center" style="border: none;">
+          <a href="https://www.typescriptlang.org/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="50" height="50"/>
+          </a>
+          <br>.NET
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://sql.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50"/>
+          </a>
+          <br>SQL
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
+          </a>
+          <br>Docker
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+          </a>
+          <br>Python
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+          </a>
+          <br>Postman
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
+          </a>
+          <br>Java
+        </td>
+         <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50"/>
+          </a>
+          <br>Spring
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="50" height="50"/>
+          </a>
+          <br>Nodejs
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="50" height="50"/>
+          </a>
+          <br>VStudio
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://azure.com/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/>
+          </a>
+          <br>Azure
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
