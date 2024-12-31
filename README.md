@@ -1,5 +1,4 @@
-![bomdia](https://github.com/user-attachments/assets/2e5c99a3-19cd-4ad7-ad5b-735d352bdf94)
-
+https://github.com/user-attachments/assets/8ec5fbd7-01b3-4055-9f0e-67e2d11e902d
 
 
 <h1 align="center">Hi 👋, I'm Rian Fuzinelli</h1>
