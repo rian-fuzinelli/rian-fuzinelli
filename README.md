@@ -157,29 +157,6 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
           </a>
           <br>Postman
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-          </a>
-          <br>Java
-        </td>
-         <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50"/>
-          </a>
-          <br>Spring
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="50" height="50"/>
-          </a>
-          <br>Nodejs
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="50" height="50"/>
-          </a>
-          <br>AWS
         </td>
         <td align="center" style="border: none;">
           <a href="https://azure.com/" style="color: white;">
