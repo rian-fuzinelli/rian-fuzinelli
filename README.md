@@ -157,6 +157,12 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
           </a>
           <br>Postman
         </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65"/>
+          </a>
+          <br>Rest
+        </td>
         </td>
         <td align="center" style="border: none;">
           <a href="https://azure.com/" style="color: white;">
