@@ -159,7 +159,7 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65"/>
+           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
           </a>
           <br>Rest
         </td>
