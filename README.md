@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![rianzinhu](https://github.com/user-attachments/assets/08fe8886-0554-4484-861d-94bac5a72719)
+  ![Image](https://github.com/user-attachments/assets/acec2634-4333-4c7a-ae12-927b7df99d3e)
 
 
   </a>
