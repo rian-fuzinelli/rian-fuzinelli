@@ -151,6 +151,12 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
           </a>
           <br>Python
         </td>
+         <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
+          </a>
+          <br>Java
+        </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
             <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
