@@ -135,6 +135,18 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
+          </a>
+          <br>Java
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" width="42" height="42"/>
+          </a>
+          <br>Spring
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
           </a>
           <br>JavaScript
@@ -147,15 +159,9 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
           </a>
-          <br>Python
-        </td>
-         <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-          </a>
-          <br>Java
+          <br>C++
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
@@ -168,7 +174,6 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
           </a>
           <br>REST
-        </td>
         </td>
         <td align="center" style="border: none;">
           <a href="https://azure.com/" style="color: white;">
