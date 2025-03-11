@@ -141,7 +141,7 @@ I am motivated by continuous learning and enjoy collaborating in teams that valu
         </td>
         <td align="center" style="border: none;">
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" width="42" height="42"/>
+            <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" width="42" height="50"/>
           </a>
           <br>Spring
         </td>
