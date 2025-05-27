@@ -42,12 +42,6 @@
   </table>
 </div>
 
-
-
-
-
-<br>
-
 <h2>About me 😎</h2>
 
 - 💼 Currently, I am a **Back-End Developer Trainee** at **Coaliza**, with a passion for **Software Engineering**.
