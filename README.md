@@ -47,7 +47,7 @@
 <h2>About me 😎</h2>
 
 🔹 💼 **Back-End Developer Trainee** at **Coaliza** 
-🔹 🎓 I hold a **Technical degree in Systems Development** from **ETEC**.  
+🔹 🎓 **Systems Analysis and Development Technician** from **ETEC**.  
 🔹 🧑‍🎓 Future **Bachelor's degree in Computer Science** at **UNISAGRADO**.  
 🔹 🔄 I am motivated by **continuous learning** and enjoy working in **collaborative environments** that value **knowledge exchange**.  
 🔹 🎯 Passionate for **Software Engineering**.  
