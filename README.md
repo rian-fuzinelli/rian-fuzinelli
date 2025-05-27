@@ -46,11 +46,13 @@
 
 <h2>About me 😎</h2>
 
-🔹 💼 **Back-End Developer Trainee** at **Coaliza** 
-🔹 🎓 **Systems Analysis and Development Technician** from **ETEC**.  
-🔹 🧑‍🎓 Future **Bachelor's degree in Computer Science** at **UNISAGRADO**.  
-🔹 🔄 Proficient **English** speaker.  
-🔹 🎯 Passionate for **Software Engineering**.  
+<div class="perfil">
+    <span class="item">🔹 💼 <strong>Back-End Developer Trainee</strong> at <strong>Coaliza</strong></span>
+    <span class="item">🔹 🎓 <strong>Systems Analysis and Development Technician</strong> from <strong>ETEC</strong></span>
+    <span class="item">🔹 🧑‍🎓 Future <strong>Bachelor's degree in Computer Science</strong> at <strong>UNISAGRADO</strong></span>
+    <span class="item">🔹 🔄 Proficient <strong>English</strong> speaker</span>
+    <span class="item">🔹 🎯 Passionate for <strong>Software Engineering</strong></span>
+  </div>
 
 
 
