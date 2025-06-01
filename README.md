@@ -46,7 +46,10 @@
 
 <h2>About me 😎</h2>
 
-<img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-fed8-61f9-82b4-dfe4a91266e2/raw?se=2025-06-01T23%3A02%3A23Z&sp=r&sv=2024-08-04&sr=b&scid=6b20af0f-40c3-5c29-9d21-cb292125e84a&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-01T21%3A21%3A50Z&ske=2025-06-02T21%3A21%3A50Z&sks=b&skv=2024-08-04&sig=lIvXNjWFFZ8mrTjTz/a%2BjaNVxuyaF%2BDZLR9zqjmGZKI%3D" alt="Texto Alternativo">
+💼 **Back-End Developer at Coaliza**<br>
+🎓 **Systems Analysis and Development Technician FROM ETEC**<br>
+🎓 **Future Bachelor's in Computer Science at UNISAGRADO**<br>
+💡 **Passionate about Software Engineering**
 
 <h3 align="center">Git Stats</h3>
 
