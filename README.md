@@ -23,7 +23,7 @@
 <div align="center">
   <h2>🌐 Connect with me</h2>
 
-  > *“Simplicity is the soul of efficiency.”* — Austin Freeman
+  *“Simplicity is the soul of efficiency.”* — Austin Freeman
 
   <p>Follow me on Instagram and LinkedIn!</p>
 
