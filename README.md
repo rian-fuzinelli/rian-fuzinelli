@@ -44,13 +44,6 @@
   </table>
 </div>
 
-<h2>About me 😎</h2>
-
-💼 **Back-End Developer at Coaliza**<br>
-🎓 **Systems Analysis and Development Technician from ETEC**<br>
-🎓 **Future Bachelor's in Computer Science at UNISAGRADO**<br>
-💡 **Passionate about Software Engineering**
-
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
