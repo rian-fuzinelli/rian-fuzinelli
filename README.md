@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Left-Handed | Gamer | Linguistic
+  <i>Left-Handed | Gamer | Linguistic</i>
 </p>
 
 <div align="center">
