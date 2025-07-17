@@ -55,8 +55,3 @@ I'm a Software developer dedicated to building reliable, maintainable, and scala
 </a>
 
 <br>
-
-### 🎓 Certifications
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fa4ec370-3786-4c45-9e36-6be667c9af46" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93ea9e0a-d3a0-483b-91d7-e7ddb135a5ff" />
