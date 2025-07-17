@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rian Fuzinelli!
+## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Rian Fuzinelli!
 
 <a href='https://www.linkedin.com/in/rian-fuzinelli/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rianfuzinelli/'><img alt="kaggle" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
