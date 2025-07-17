@@ -4,9 +4,6 @@
 <a href='https://www.kaggle.com/rianfuzinelli/'><img alt="kaggle" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 I'm a Software developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering ⚙️ and Database Design & Optimization 📈 . Skilled at solving complex problems with clear and effective solutions. Prioritizes clarity, consistency, and long-term sustainability in code and systems 🎯.
-
-
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/87af866a-3db6-4374-996f-f365f380c7aa" width="320px"/>
   
 ### 🧐 More About Me:
 
