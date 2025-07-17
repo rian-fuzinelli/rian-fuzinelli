@@ -6,7 +6,7 @@
 I'm a Software developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering ⚙️ and Database Design & Optimization 📈 . Skilled at solving complex problems with clear and effective solutions. Prioritizes clarity, consistency, and long-term sustainability in code and systems 🎯.
 
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/87af866a-3db6-4374-996f-f365f380c7aa" width="220px"/>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/87af866a-3db6-4374-996f-f365f380c7aa" width="320px"/>
   
 ### 🧐 More About Me:
 
@@ -14,7 +14,7 @@ I'm a Software developer dedicated to building reliable, maintainable, and scala
 - 🤝 I’m looking to collaborate on projects focused on system architecture and services
 - 🌱 I’m currently deepening my knowledge in advanced software design and optimization  
 - 👨🏻‍💻 Most of my projects and tools are available on GitHub  
-- 🎨 I apply clean and thoughtful design principles to software architecture and code organization  
+- 🎨 I structure codebases using domain-driven and layered designs.
 - 💬 Ask me about backend development, system design, security, or SQL optimization  
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rian-fuzinelli/)  
 - 📝 Checkout my resume for a detailed overview of my skills and experience  
