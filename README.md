@@ -1,178 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+## Hey 👋, I'm Rian Fuzinelli!
 
-<div align="center">
+<a href='https://www.linkedin.com/in/rian-fuzinelli/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rianfuzinelli/'><img alt="kaggle" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-  ![Image](https://github.com/user-attachments/assets/d1e54e7f-47e6-4301-86a3-77f7cc9de45c)
+I'm a Software developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering ⚙️ and Database Design & Optimization 📈 . Skilled at solving complex problems with clear and effective solutions. Prioritizes clarity, consistency, and long-term sustainability in code and systems 🎯.
+
+<br/>
+
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/d1e54e7f-47e6-4301-86a3-77f7cc9de45c" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 I’m currently working on building scalable and maintainable backend systems  
+- 🤝 I’m looking to collaborate on projects focused on system architecture and services
+- 🌱 I’m currently deepening my knowledge in advanced software design and optimization  
+- 👨🏻‍💻 Most of my projects and tools are available on GitHub  
+- 🎨 I apply clean and thoughtful design principles to software architecture and code organization  
+- 💬 Ask me about backend development, system design, security, or SQL optimization  
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rian-fuzinelli/)  
+- 📝 Checkout my resume for a detailed overview of my skills and experience  
+- 📚 In my free time, I enjoy playing games and reading books.
 
 
-  </a>
-</div>
-
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="48" height="48"></a> , I'm Rian Fuzinelli</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Back-End+Developer;Systems+Development+Technician;" alt="Typing SVG" />
-
-</p>
-
-<p align="center">
-  <i>Left-Handed | Gamer | Linguistic</i>
-</p>
-
-<div align="center">
-<div align="center">
-  <h2>🌐 Connect with me</h2>
-
-  *“Simplicity is the soul of efficiency.”* — Austin Freeman
-
-  <p>Follow me on Instagram and LinkedIn!</p>
-
- 
-
-  <table>
-      <td align="center">
-        <a href="https://www.instagram.com/riancaioo_/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/rian-fuzinelli-645323249/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="" />
-  <br>
-  💹
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian-fuzinelli&custom_title=Rian's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian-fuzinelli&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rian-fuzinelli&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
-</div>
+### 🔨 Languages and Tools:
+<a href="https://techstack-generator.vercel.app/csharp-icon.svg" target="_blank"> <img align="left" width="37px" height="37px" alt="Image" src="https://github.com/user-attachments/assets/a3fcce5b-19b1-49cd-8d03-cb75590c9310" /> </a> 
+<a href="https://skillicons.dev/icons?i=dotnet" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" height="37px"/> </a> 
+<a href="" target="_blank"> <img align="left" alt="VS" height ="37px" src="https://github.com/user-attachments/assets/cccbd0a8-b142-479d-bbeb-852de073cc0c"> </a>
+<a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank"><img align="left" width="37px" height="37px" alt="Image" src="https://github.com/user-attachments/assets/ff354e93-02de-4feb-b588-2086a67fea1d" /></a>
+<a href="https://techstack-generator.vercel.app/restapi-icon.svg" target="_blank"> <img align="left" src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" height='37px'/> </a>
+<a href="https://techstack-generator.vercel.app/docker-icon.svg" target="_blank"><img align="left" alt="Docker" height ="37px" src="https://techstack-generator.vercel.app/docker-icon.svg"></a>
+<a href="https://techstack-generator.vercel.app/java-icon.svg" target="_blank"><img align="left" alt="Java" height ="37px" src="https://techstack-generator.vercel.app/java-icon.svg"></a>
+<a href="https://techstack-generator.vercel.app/cpp-icon.svg" target="_blank"><img align="left" height="37px" alt="Golang" src="https://github.com/user-attachments/assets/20e44d14-cc63-412d-8c7a-aefc46726cf7" /></a>
+<a href="" target="_blank"> <img align="left" height="37px" alt="image" src="https://github.com/user-attachments/assets/01dfc9b9-6641-48c5-aa41-6eeb407581b1" />
+<a href="https://skillicons.dev/icons?i=postman" target="_blank"> <img align="left" alt="Postman" height ="37px" src="https://skillicons.dev/icons?i=postman"></a>
+<a href="https://skillicons.dev/icons?i=azure" target="_blank"><img align="left" alt="Azure" height ="37px" src="https://skillicons.dev/icons?i=azure"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='37px'/> </a>
+<a href="https://techstack-generator.vercel.app/cpp-icon.svg" target="_blank"> <img align="left" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" height ="37px"/> </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Rian's GitHub stats">
+<br><br><br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rian-fuzinelli&theme=highcontrast&hide_border=true">
-
-### GitHub Contribution Chart
+### 📊 Github Stats
+<a href='https://github.com/rian-fuzinelli/github-stats-transparent'>
+  
+<!-- GitHub Stats -->
 <a href="https://github.com/rian-fuzinelli">
-    <img src="https://ghchart.rshah.org/rian-fuzinelli" alt="rian-fuzinelli's GitHub Contribution Chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  <br>
-      <img src="https://github-readme-bento.vercel.app/stats/rian-fuzinelli?theme=dark" alt="rian-fuzinelli's GitHub Stats">
-
-
-</details>
-
+<!-- Top Languages -->
+<a href="https://github.com/rian-fuzinelli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian-fuzinelli&layout=compact&theme=github_dark" alt="Top Langs"/>
+</a>
 
 <br>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px"> Tech Skills</h1>
+### 🎓 Certifications
 
-<h3 align="center">Development Tools</h3>
-
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="12" align="center" style="color: white;">Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <a href="https://cs.org/" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#"/>
-          </a>
-          <br>C#
-        </td>
-       <td align="center" style="border: none;">
-          <a href="https://www.typescriptlang.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="50" height="50"/>
-          </a>
-          <br>.NET
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://sql.org/" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50"/>
-          </a>
-          <br>SQL
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-          </a>
-          <br>Java
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" width="42" height="50"/>
-          </a>
-          <br>Spring
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-          </a>
-          <br>JavaScript
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
-          </a>
-          <br>Docker
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-          </a>
-          <br>C++
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-          </a>
-          <br>Postman
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
-          </a>
-          <br>REST
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://azure.com/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/>
-          </a>
-          <br>Azure
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fa4ec370-3786-4c45-9e36-6be667c9af46" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93ea9e0a-d3a0-483b-91d7-e7ddb135a5ff" />
