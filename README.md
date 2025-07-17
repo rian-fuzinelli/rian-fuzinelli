@@ -12,7 +12,7 @@ I'm a Software developer dedicated to building reliable, maintainable, and scala
 
 
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/87af866a-3db6-4374-996f-f365f380c7aa" width="320px"/>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/87af866a-3db6-4374-996f-f365f380c7aa" width="350px"/>
   
 ### 🧐 More About Me:
 
