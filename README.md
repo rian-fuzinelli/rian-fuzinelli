@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/rian-fuzinelli/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rianfuzinelli/'><img alt="kaggle" src="https://raw.githubusercontent.com/rian-fuzinelli/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I'm a Software Developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering ⚙️ and Database Design & Optimization 📈 . Driven to solve Complex Problems using Clear Logic and Solid Engineering Principles. Committed to code quality, testability, system observability, and long-term sustainability of software solutions 🎯.
+I'm a Software Developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering ⚙️ and Database Design & Optimization 📈 . Focused on solving complex engineering problems through rigorous system design, data-driven decisions, and well-defined architectural patterns. Committed to code quality, testability, system observability, and long-term sustainability of software solutions 🎯.
   
 ### 🧐 More About Me:
 
