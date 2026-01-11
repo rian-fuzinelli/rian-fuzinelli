@@ -13,7 +13,6 @@ I'm a Software Developer dedicated to building reliable, maintainable, and scala
 - 👨🏻‍💻 Most of my projects and tools are available on GitHub  
 - 🎨 I structure codebases using domain-driven and layered designs.
 - 💬 Ask me about backend development, system design, security, or SQL optimization  
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rian-fuzinelli/)  
 - 📝 Checkout my resume for a detailed overview of my skills and experience  
 - 📚 In my free time, I enjoy playing games and reading books.
 
