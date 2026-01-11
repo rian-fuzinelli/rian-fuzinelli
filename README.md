@@ -5,7 +5,7 @@
 
 I'm a Software Developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering and Database Design & Optimization. Focused on solving complex engineering problems through rigorous system design, data-driven decisions, and well-defined architectural patterns. Committed to code quality, testability, system observability, and long-term sustainability of software solutions.
   
-### 🧐 More About Me:
+### 🧐 More About me:
 
 - 🔭 Currently architecting high-performance backend systems using .NET
 - 🤝 Looking to collaborate on projects focused on system architecture and services
