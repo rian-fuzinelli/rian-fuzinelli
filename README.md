@@ -7,9 +7,9 @@ I'm a Software Developer dedicated to building reliable, maintainable, and scala
   
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on building scalable and maintainable backend systems  
-- 🤝 I’m looking to collaborate on projects focused on system architecture and services
-- 🌱 I’m currently deepening my knowledge in advanced software design and optimization  
+- 🔭 Currently architecting high-performance backend systems using .NET
+- 🤝 Looking to collaborate on projects focused on system architecture and services
+- 🌱 Currently deepening my knowledge in advanced software design and optimization  
 - 👨🏻‍💻 Most of my projects and tools are available on GitHub  
 - 🎨 I structure codebases using domain-driven and layered designs.
 - 💬 Ask me about backend development, system design, security, or SQL optimization  
