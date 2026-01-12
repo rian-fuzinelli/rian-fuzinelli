@@ -19,20 +19,10 @@ I'm a Software Developer dedicated to building reliable, maintainable, and scala
 
 <br>
 
-### 🔨 Languages and Tools:
-<a href="https://techstack-generator.vercel.app/csharp-icon.svg" target="_blank"> <img align="left" width="37px" height="37px" alt="Image" src="https://github.com/user-attachments/assets/a3fcce5b-19b1-49cd-8d03-cb75590c9310" /> </a> 
-<a href="https://skillicons.dev/icons?i=dotnet" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" height="37px"/> </a> 
-<a href="" target="_blank"> <img align="left" alt="VS" height ="37px" src="https://github.com/user-attachments/assets/cccbd0a8-b142-479d-bbeb-852de073cc0c"> </a>
-<a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank"><img align="left" width="37px" height="37px" alt="Image" src="https://github.com/user-attachments/assets/ff354e93-02de-4feb-b588-2086a67fea1d" /></a>
-<a href="https://techstack-generator.vercel.app/restapi-icon.svg" target="_blank"> <img align="left" src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" height='37px'/> </a>
-<a href="https://techstack-generator.vercel.app/docker-icon.svg" target="_blank"><img align="left" alt="Docker" height ="37px" src="https://techstack-generator.vercel.app/docker-icon.svg"></a>
-<a href="https://techstack-generator.vercel.app/java-icon.svg" target="_blank"><img align="left" alt="Java" height ="37px" src="https://techstack-generator.vercel.app/java-icon.svg"></a>
-<a href="https://techstack-generator.vercel.app/cpp-icon.svg" target="_blank"><img align="left" height="37px" alt="Golang" src="https://github.com/user-attachments/assets/20e44d14-cc63-412d-8c7a-aefc46726cf7" /></a>
-<a href="" target="_blank"> <img align="left" height="37px" alt="image" src="https://github.com/user-attachments/assets/01dfc9b9-6641-48c5-aa41-6eeb407581b1" />
-<a href="https://skillicons.dev/icons?i=postman" target="_blank"> <img align="left" alt="Postman" height ="37px" src="https://skillicons.dev/icons?i=postman"></a>
-<a href="https://skillicons.dev/icons?i=azure" target="_blank"><img align="left" alt="Azure" height ="37px" src="https://skillicons.dev/icons?i=azure"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='37px'/> </a>
-<a href="https://techstack-generator.vercel.app/cpp-icon.svg" target="_blank"> <img align="left" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" height ="37px"/> </a>
+### 🔨 Technologies & Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgresql,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,docker,kubernetes,azure,aws,githubactions,git,github,bitbucket,postman,grafana,prometheus,visualstudio,rider,figma" />
+</p>
 
 <br><br><br><br>
 
