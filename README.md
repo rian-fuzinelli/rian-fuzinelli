@@ -25,21 +25,3 @@ I'm a Software Developer dedicated to building reliable, maintainable, and scala
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgresql,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,docker,kubernetes,azure,aws,githubactions,git,github,bitbucket,postman,grafana,prometheus,visualstudio,rider,figma" />
 </p>
 -->
-
-
-### 📊 Github Stats
-<a href='https://github.com/rian-fuzinelli/github-stats-transparent'>
-  
-<!-- GitHub Stats -->
-<a href="https://github.com/rian-fuzinelli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rian-fuzinelli&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/rian-fuzinelli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian-fuzinelli&layout=compact&theme=github_dark" alt="Top Langs"/>
-</a>
-
-<br>
-
-
