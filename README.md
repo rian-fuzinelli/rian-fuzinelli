@@ -1,7 +1,8 @@
 ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Rian Fuzinelli!
 
-<p><a href="https://www.linkedin.com/in/rian-fuzinelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@riancaiofuzinelli12" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-fuzinelli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riancaiofuzinelli12@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@riancaiofuzinelli12)
 <br>
 
 I'm a Software Developer dedicated to building reliable, maintainable, and scalable systems. Passionate about Software Engineering and Database Design & Optimization. Focused on solving complex engineering problems through rigorous system design, data-driven decisions, and well-defined architectural patterns. Committed to code quality, testability, system observability, and long-term sustainability of software solutions.
