@@ -11,7 +11,7 @@ I strongly value:
 - Observability and reliability
 - Scalable architectures
 - Well-designed databases
-- 
+
 ## 🧠 Engineering Focus
 
 - Backend Architecture
