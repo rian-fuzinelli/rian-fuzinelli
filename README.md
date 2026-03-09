@@ -11,9 +11,7 @@ I strongly value:
 - Observability and reliability
 - Scalable architectures
 - Well-designed databases
-
-My goal is to build software that is **robust, maintainable, and engineered to last**.
-
+- 
 ## 🧠 Engineering Focus
 
 - Backend Architecture
