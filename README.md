@@ -14,8 +14,6 @@ I strongly value:
 
 My goal is to build software that is **robust, maintainable, and engineered to last**.
 
----
-
 ## 🧠 Engineering Focus
 
 - Backend Architecture
@@ -27,7 +25,6 @@ My goal is to build software that is **robust, maintainable, and engineered to l
 - Observability and Performance
 - Secure Backend Development
 
----
 
 ## 🧩 Design Principles
 
@@ -40,8 +37,6 @@ When designing software systems, I prioritize:
 - Long-term maintainability
 
 I believe great software engineering is about building systems that remain **understandable, reliable, and maintainable** as they grow in complexity.
-
----
 
 ## 📫 Contact
 
