@@ -34,8 +34,6 @@ When designing software systems, I prioritize:
 - Scalable, modular architectures
 - Long-term maintainability
 
-I believe great software engineering is about building systems that remain **understandable, reliable, and maintainable** as they grow in complexity.
-
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/rian-fuzinelli
