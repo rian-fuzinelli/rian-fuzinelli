@@ -40,6 +40,10 @@ When designing software systems, I prioritize:
 - Email: riancaiofuzinelli12@gmail.com
 - Medium: https://medium.com/@riancaiofuzinelli12
 
+## 📚 Cursos & Materiais
+
+- 🐇 [Curso Completo de RabbitMQ com C#](./RabbitMQ-CSharp-Course/README.md) — Do Zero ao Avançado
+
 ---
 
 ⭐ *Always interested in discussing software engineering, backend systems, and scalable architectures.*

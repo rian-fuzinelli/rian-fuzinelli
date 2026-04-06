@@ -1,0 +1,9 @@
+## .NET build artifacts
+obj/
+bin/
+*.user
+*.suo
+.vs/
+*.nuget.props
+*.nuget.targets
+project.nuget.cache
