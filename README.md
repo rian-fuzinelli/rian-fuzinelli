@@ -43,7 +43,6 @@ When designing software systems, I prioritize:
 ---
 
 ⭐ *Always interested in discussing software engineering, backend systems, and scalable architectures.*
--->
 <!-- 
 <p>
 🔨 Exploring & Improving
