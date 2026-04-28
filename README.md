@@ -1,4 +1,4 @@
--- ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Rian Fuzinelli
+ ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Rian Fuzinelli
 
 I'm a **Backend Software Developer** focused on designing and building **reliable, scalable, and maintainable systems**.
 
