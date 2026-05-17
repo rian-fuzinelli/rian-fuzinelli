@@ -1,4 +1,4 @@
-👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer
+👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer with over 2 years of Experience in .NET Applications
 
 ## About Me
 
