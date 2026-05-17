@@ -1,4 +1,4 @@
-👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer 🏅 focused on using technology to build scalable, reliable, and maintainable systems.
+👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer focused on using technology to build scalable, reliable, and maintainable systems.
 
 ## About Me
 
