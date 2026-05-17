@@ -42,8 +42,8 @@ You can see my portfolio here.
 
 ## Connect with me 📫
 
-- 📫 Email
-- 🔗 LinkedIn
+- 📫 [Email](mailto:riancaiofuzinelli12@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/rian-fuzinelli)
 
 I really enjoy collaborating on projects that can create real impact through technology, building scalable, well-structured, and maintainable solutions. Let's connect! 🌎
 
