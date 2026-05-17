@@ -12,7 +12,7 @@ My experience is focused on the development and maintenance of applications for 
 - **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
 - **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
-## Main Projects and Certifications 📚
+## Main Projects and Certifications 🏅
 
 - **Corporate Backend Systems:** I have worked on the development and evolution of backend applications focused on business rules, data persistence, integrations, and REST APIs.
 
@@ -24,7 +24,7 @@ My experience is focused on the development and maintenance of applications for 
 
 You can see my portfolio here.
 
-## Leadership & Advocacy 🌟
+## Leadership & Advocacy 💡
 
 - **Project Participation:** I have participated in academic and technical projects involving real problem-solving, including an **Intelligent Irrigation Control System**, developed with a focus on automation, technology, and practical impact.
 
@@ -34,7 +34,7 @@ You can see my portfolio here.
 
 - **Team Collaboration:** I enjoy contributing to projects with a focus on organization, clear communication, technical quality, and continuous improvement.
 
-## Professional Goals 🚀
+## Professional Goals 🎯
 
 - **Career Development:** Committed to expanding my career as a backend developer, focusing on roles that value software architecture, best practices, performance, and the development of scalable systems.
 
