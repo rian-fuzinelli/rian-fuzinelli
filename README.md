@@ -1,48 +1,51 @@
-<!-- ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Rian Fuzinelli
+👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer 🏅 focused on using technology to build scalable, reliable, and maintainable systems.
 
-I'm a **Backend Software Developer** focused on designing and building **reliable, scalable, and maintainable systems**.
+## About Me
 
-My main interests lie in **Software Architecture, Distributed Systems, and Database Engineering**. I enjoy solving complex engineering problems by applying **clean architectural patterns, performance optimization, and strong system design principles**.
+My experience is focused on the development and maintenance of applications for corporate environments, especially systems related to loyalty programs, incentive programs, integrations, data persistence, process automation, and business-oriented web solutions.
 
-I strongly value:
+## Technical Skills 🛠️
 
-- Clean and maintainable code
-- High-performance systems
-- Observability and reliability
-- Scalable architectures
-- Well-designed databases
+- **Languages:** C#, SQL, JavaScript, TypeScript
+- **Backend & Frameworks:** .NET, ASP.NET Core, Entity Framework Core, RESTful APIs
+- **Databases:** SQL Server, PostgreSQL, MySQL
+- **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
+- **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
-## 🧠 Engineering Focus
+## Main Projects and Certifications 📚
 
-- Backend Architecture
-- RESTful APIs & Microservices
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Distributed Systems
-- Database Design & Optimization
-- Observability and Performance
-- Secure Backend Development
+- **Corporate Backend Systems:** I have worked on the development and evolution of backend applications focused on business rules, data persistence, integrations, and REST APIs.
 
+- **Loyalty and Incentive Programs:** I participated in the evolution of systems related to loyalty, incentive, and relationship programs, focusing on stability, maintainability, and continuous improvement.
 
-## 🧩 Design Principles
+- **Academic and Extension Projects:** I participated in projects focused on process automation, data modeling, system integration, and solutions with real operational impact.
 
-When designing software systems, I prioritize:
+- **Agrotech Impact:** I have also contributed to projects and solutions with positive impact in the **agrotech sector**, supporting technology-driven initiatives focused on efficiency, innovation, and real-world business needs.
 
-- Simplicity over unnecessary complexity
-- Performance as a first-class concern
-- Clear separation of responsibilities
-- Scalable, modular architectures
-- Long-term maintainability
+You can see my portfolio here.
 
-## 📫 Contact
+## Leadership & Advocacy 🌟
 
-- LinkedIn: https://linkedin.com/in/rian-fuzinelli
-- Email: riancaiofuzinelli12@gmail.com
-- Medium: https://medium.com/@riancaiofuzinelli12
+- **Project Participation:** I have participated in academic and technical projects involving real problem-solving, including an **Intelligent Irrigation Control System**, developed with a focus on automation, technology, and practical impact.
 
----
+- **Technical Final Project:** I also participated in a **technical high school final project (TCC)**, contributing to the planning, development, and delivery of a software solution as part of my technical education.
 
-⭐ *Always interested in discussing software engineering, backend systems, and scalable architectures.*
+- **University Extension Projects:** I have completed and received **two certifications in university extension projects**, where I had the opportunity to apply technical knowledge to practical initiatives with real-world relevance.
+
+- **Team Collaboration:** I enjoy contributing to projects with a focus on organization, clear communication, technical quality, and continuous improvement.
+
+## Professional Goals 🚀
+
+- **Career Development:** Committed to expanding my career as a backend developer, focusing on roles that value software architecture, best practices, performance, and the development of scalable systems.
+
+- **Continuous Learning:** Engaged in constant professional growth, staying up to date with modern technologies, software architecture, cloud computing, DevOps, and backend engineering.
+
+## Connect with me 📫
+
+- 📫 Email
+- 🔗 LinkedIn
+
+I really enjoy collaborating on projects that can create real impact through technology, building scalable, well-structured, and maintainable solutions. Let's connect! 🌎
 
 <!-- 
 <p>
