@@ -1,4 +1,4 @@
-<--👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer specialized in .NET, focused on building scalable APIs, backend systems, and business-oriented software solutions.
+<!--👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer specialized in .NET, focused on building scalable APIs, backend systems, and business-oriented software solutions.
 
 ## About Me
 
