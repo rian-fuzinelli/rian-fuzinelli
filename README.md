@@ -1,10 +1,6 @@
-👋 Hello, I'm Rian Fuzinelli! I'm a Backend Software Engineer specialized in .NET, focused on building scalable APIs, backend systems, and business-oriented software solutions.
+## Backend Software Engineer | Business Rules → APIs → Scalable Systems | .NET • C# • SQL Server • AWS | Building Enterprise Solutions
 
-## About Me
-
-My experience is focused on the development and maintenance of applications for corporate environments, especially systems related to loyalty programs, incentive programs, integrations, data persistence, process automation, and business-oriented web solutions.
-
-## Technical Skills 🛠️
+## Tech Stack 🛠️
 
 - **Languages:** C#, SQL, JavaScript, TypeScript
 - **Backend & Frameworks:** .NET, ASP.NET Core, Entity Framework Core, RESTful APIs
@@ -21,8 +17,6 @@ My experience is focused on the development and maintenance of applications for 
 - **Academic and Extension Projects:** I participated in projects focused on process automation, data modeling, system integration, and solutions with real operational impact.
 
 - **Agrotech Impact:** I have also contributed to projects and solutions with positive impact in the **agrotech sector**, supporting technology-driven initiatives focused on efficiency, innovation, and real-world business needs.
-
-You can see my portfolio here.
 
 ## Leadership & Advocacy 💡
 
