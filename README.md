@@ -8,15 +8,11 @@
 - **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
 - **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
-## Main Projects and Certifications 🏅
+## 📈 Experience Highlights
 
-- **Corporate Backend Systems:** I have worked on the development and evolution of backend applications focused on business rules, data persistence, integrations, and REST APIs.
-
-- **Loyalty and Incentive Programs:** I participated in the evolution of systems related to loyalty, incentive, and relationship programs, focusing on stability, maintainability, and continuous improvement.
-
-- **Academic and Extension Projects:** I participated in projects focused on process automation, data modeling, system integration, and solutions with real operational impact.
-
-- **Agrotech Impact:** I have also contributed to projects and solutions with positive impact in the **agrotech sector**, supporting technology-driven initiatives focused on efficiency, innovation, and real-world business needs.
+- Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
+- Participated in the maintenance and enhancement of Accounting Solutions Platforms, delivering business-critical features, integrations, and operational improvements.
+- Worked on Teachers' Union Management Applications, supporting member administration, communication processes, and organizational operations.
 
 ## Leadership & Advocacy 💡
 
