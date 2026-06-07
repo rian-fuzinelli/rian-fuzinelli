@@ -8,7 +8,7 @@
 - **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
 - **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
-## 📈 Experience Highlights
+## Experience Highlights 📈
 
 - Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
 - Participated in the maintenance and enhancement of Accounting Solutions Platforms, delivering business-critical features, integrations, and operational improvements.
