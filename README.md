@@ -24,12 +24,6 @@
 
 - **Team Collaboration:** I enjoy contributing to projects with a focus on organization, clear communication, technical quality, and continuous improvement.
 
-## Professional Goals 🎯
-
-- **Career Development:** Committed to expanding my career as a backend developer, focusing on roles that value software architecture, best practices, performance, and the development of scalable systems.
-
-- **Continuous Learning:** Engaged in constant professional growth, staying up to date with modern technologies, software architecture, cloud computing, DevOps, and backend engineering.
-
 ## Connect with me 📫
 
 - 📫 [Email](mailto:riancaiofuzinelli12@gmail.com)
