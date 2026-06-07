@@ -1,4 +1,4 @@
-<!- ## Backend Software Engineer | Business Rules → APIs → Scalable Systems | .NET • C# • SQL Server • AWS | Building Enterprise Solutions
+<!-- ## Backend Software Engineer | Business Rules → APIs → Scalable Systems | .NET • C# • SQL Server • AWS | Building Enterprise Solutions
 
 ## Tech Stack 🛠️
 
