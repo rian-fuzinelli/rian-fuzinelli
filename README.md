@@ -1,4 +1,4 @@
- ### Backend Software Engineer specializing in .NET, focused on transforming business rules into scalable, secure, and maintainable systems.
+ ### Backend Software Engineer (.NET) | Building Scalable Enterprise Systems from Business Requirements
 
 ## Tech Stack 🛠️
 
