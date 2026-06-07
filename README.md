@@ -1,5 +1,3 @@
- ### Backend Software Engineer (.NET) | Building Scalable Enterprise Systems from Business Requirements
-
 ## Tech Stack 🛠️
 
 - **Languages:** C#, SQL, JavaScript, TypeScript
@@ -38,3 +36,5 @@ I really enjoy collaborating on projects that can create real impact through tec
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgresql,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,docker,kubernetes,azure,aws,githubactions,git,github,bitbucket,postman,grafana,prometheus,visualstudio,rider,figma" />
 </p>
 -->
+
+
