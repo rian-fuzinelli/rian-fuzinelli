@@ -15,7 +15,7 @@
 - Worked on Teachers' Union Management Applications, supporting member administration, communication processes, and organizational operations.
 - Participated in the development and evolution of backend services and APIs focused on system integrations, data processing, and automation of business workflows in corporate environments.
 
-## Academic, Research & Contributions 💡
+## Research & Contributions 💡
 
 - **Scientific Research Projects (University)**: Participation in academic research initiatives focused on software engineering, system development, and applied technology, contributing to practical and theoretical advancements in computing.
 
