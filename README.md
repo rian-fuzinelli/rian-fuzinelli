@@ -15,15 +15,15 @@
 - Worked on Teachers' Union Management Applications, supporting member administration, communication processes, and organizational operations.
 - Participated in the development and evolution of backend services and APIs focused on system integrations, data processing, and automation of business workflows in corporate environments.
 
-## Leadership & Advocacy 💡
+## Academic, Research & Contributions 💡
 
-- **Project Participation:** I have participated in academic and technical projects involving real problem-solving, including an **Intelligent Irrigation Control System**, developed with a focus on automation, technology, and practical impact.
+- **Scientific Research Projects (University)**: Participation in academic research initiatives focused on software engineering, system development, and applied technology, contributing to practical and theoretical advancements in computing.
 
-- **Technical Final Project:** I also participated in a **technical high school final project (TCC)**, contributing to the planning, development, and delivery of a software solution as part of my technical education.
+- **Technology Week (VI SITEC)**: Active participation in the university’s VI SITEC (Technology Week), engaging in technical presentations, workshops, and discussions on modern software development practices and emerging technologies.
 
-- **University Extension Projects:** I have completed and received **two certifications in university extension projects**, where I had the opportunity to apply technical knowledge to practical initiatives with real-world relevance.
+- **Volunteer Extension Projects**: Involvement in university extension programs, contributing to the development of technological solutions aimed at real-world problems and community-oriented initiatives.
 
-- **Team Collaboration:** I enjoy contributing to projects with a focus on organization, clear communication, technical quality, and continuous improvement.
+- **Open Source Contributions**: Contributions to open-source projects, collaborating with the developer community to improve software quality, share knowledge, and participate in real-world distributed development workflows.
 
 ## Connect with me 📫
 
