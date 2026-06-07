@@ -13,6 +13,7 @@
 - Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
 - Participated in the maintenance and enhancement of Accounting Solutions Platforms, delivering business-critical features, integrations, and operational improvements.
 - Worked on Teachers' Union Management Applications, supporting member administration, communication processes, and organizational operations.
+- Participated in the development and evolution of backend services and APIs focused on system integrations, data processing, and automation of business workflows in corporate environments.
 
 ## Leadership & Advocacy 💡
 
