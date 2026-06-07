@@ -1,10 +1,4 @@
-## Tech Stack 🛠️
 
-- **Languages:** C#, SQL, JavaScript, TypeScript
-- **Backend & Frameworks:** .NET, ASP.NET Core, Entity Framework Core, RESTful APIs
-- **Databases:** SQL Server, PostgreSQL, MySQL
-- **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
-- **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
 ## Experience Highlights 📈
 
@@ -22,6 +16,14 @@
 - **Volunteer Extension Projects**: Involvement in university extension programs, contributing to the development of technological solutions aimed at real-world problems and community-oriented initiatives.
 
 - **Open Source Contributions**: Contributions to open-source projects, collaborating with the developer community to improve software quality, share knowledge, and participate in real-world distributed development workflows.
+
+## Tech Stack 🛠️
+
+- **Languages:** C#, SQL, JavaScript, TypeScript
+- **Backend & Frameworks:** .NET, ASP.NET Core, Entity Framework Core, RESTful APIs
+- **Databases:** SQL Server, PostgreSQL, MySQL
+- **Tools & Platforms:** Docker, GitHub, Bitbucket, Azure DevOps, AWS, Postman
+- **Architecture & Practices:** Clean Architecture, SOLID, DDD, CI/CD
 
 ## Connect with me 📫
 
