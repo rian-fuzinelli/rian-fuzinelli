@@ -1,4 +1,3 @@
-.
 ## Experience Highlights 
 
 - Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
@@ -37,6 +36,7 @@ I really enjoy collaborating on projects that can create real impact through tec
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgresql,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,docker,kubernetes,azure,aws,githubactions,git,github,bitbucket,postman,grafana,prometheus,visualstudio,rider,figma" />
 </p>
 -->
+
 
 
 
