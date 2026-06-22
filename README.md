@@ -1,3 +1,4 @@
+.
 ## Experience Highlights 
 
 - Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
