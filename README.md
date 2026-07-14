@@ -1,4 +1,3 @@
-
 ## Experience Highlights 
 
 - Contributed to the development and evolution of Loyalty & Incentive Platforms, supporting customer engagement, rewards management, and relationship programs.
@@ -30,6 +29,7 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/rian-fuzinelli)
 
 I really enjoy collaborating on projects that can create real impact through technology, building scalable, well-structured, and maintainable solutions. Let's connect! 🌎
+
 
 <!-- 
 <p>
